@@ -1,2 +1,2 @@
 # scripts
-scripts for simplification life
+scripts for life simplification
